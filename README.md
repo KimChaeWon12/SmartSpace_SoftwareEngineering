@@ -9,13 +9,21 @@
 요구사항 명세서
 설계서
 일정계획서
+테스트 계획서
+(코딩이 있을 경우) 소스코드
 
 2. 형상 항목(Configuration Items)
 
 구분		형상 항목						파일 위치
-요구사항	    과제1.프로젝트정의서				/docs/requirements
+요구사항	과제1.프로젝트정의서				/docs/requirements
+		과제3.요구사항정의서				/docs/requirements
+		과제4.요구사항분석서				/docs/requirements
+설계		과젝5.소프트웨어설계서			/docs/design
 일정		과제2.프로젝트관리계획서			/docs/plan
+테스트	과제6.인스팩션예제				/docs/test
+소스코드	소스코드						/src
 
+-> 모든 형상 항목은 Git 저장소에 등록한다.
 
 3. 형상 식별 방법
 3.1 버전 규칙: v주.부.수
